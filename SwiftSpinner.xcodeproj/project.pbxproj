@@ -10,6 +10,7 @@
 		D20C82FD1C77C1F2002CA000 /* SwiftSpinner.h in Headers */ = {isa = PBXBuildFile; fileRef = D20C82FC1C77C1F2002CA000 /* SwiftSpinner.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D20C83051C77C2B7002CA000 /* SwiftSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20C83041C77C2B7002CA000 /* SwiftSpinner.swift */; };
 		D20C83151C77C9F9002CA000 /* SwiftSpinner.h in Headers */ = {isa = PBXBuildFile; fileRef = D20C82FC1C77C1F2002CA000 /* SwiftSpinner.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D26E92781DA62C1E00641BE5 /* SwiftSpinner.swift in Sources */ = {isa = PBXBuildFile; fileRef = D20C83041C77C2B7002CA000 /* SwiftSpinner.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -204,6 +205,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D26E92781DA62C1E00641BE5 /* SwiftSpinner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
